@@ -2,7 +2,7 @@
 # LRU Cache Manager Frontend
 
 ## Overview
-    The LRUCacheManager-Frontend is a React-based web application that provides a user interface for interacting with the LRU Cache API. The app allows users to set, retrieve, and monitor cache entries in real-time through a WebSocket connection.
+The LRUCacheManager-Frontend is a React-based web application that provides a user interface for interacting with the LRU Cache API. The app allows users to set, retrieve, and monitor cache entries in real-time through a WebSocket connection.
 
 ## Features
 1. Home: View the current cache key-value pair stored in the cache.
