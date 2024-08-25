@@ -11,21 +11,21 @@
 4. Responsive Design: Optimized for both desktop and mobile views.
 
 ## Project Structure
-├── public
-│   ├── index.html          # Main HTML template
-│   └── favicon.ico         # Favicon for the app
-├── src
-|   |--styles
-|   |    |---styles.css
-│   ├── Home.js         # Home page component
-│   ├── SetKey.js       # Set Key page component
-│   |── WebSocket.js # WebSocket updates page component
-│   ├── App.js              # Main app component
-│   ├── index.js            # Entry point for React
-│   ├── App.css
-|   |---index.css
-├── package.json            # Project dependencies and scripts
-├── README.md               # Project documentation
+    ├── public
+    │   ├── index.html          # Main HTML template
+    │   └── favicon.ico         # Favicon for the app
+    ├── src
+    |   |--styles
+    |   |    |---styles.css
+    │   ├── Home.js         # Home page component
+    │   ├── SetKey.js       # Set Key page component
+    │   |── WebSocket.js # WebSocket updates page component
+    │   ├── App.js              # Main app component
+    │   ├── index.js            # Entry point for React
+    │   ├── App.css
+    |   |---index.css
+    ├── package.json            # Project dependencies and scripts
+    ├── README.md               # Project documentation
 
 ## Installation
     git clone <url>
