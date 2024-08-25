@@ -30,8 +30,7 @@ The LRUCacheManager-Frontend is a React-based web application that provides a us
 ## Installation
     git clone <url>
     cd <directory name>
-
-1. Dependencies 
+## Dependenciesnpm 
     npm install
 
 ## Run the app
